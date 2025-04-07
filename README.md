@@ -1,36 +1,36 @@
 
-<h1 align="center">ekatra.one</h1>
+<h1 align="center">VidyaAI.one</h1>
 
-🏠[Homepage](https://github.com/vruksheco/ekatraone)
+🏠[Homepage](https://github.com/vruksheco/VidyaAIone)
 
 
-• [**Ekatra**](https://www.ekatra.one/) is the first low data / no data learning platform. 
+• [**VidyaAI**](https://www.VidyaAI.one/) is the first low data / no data learning platform. 
 
-• Ekatra helps institutions create, deploy, and assess text message-based micro-courses that dramatically improve learning and training. 
+• VidyaAI helps institutions create, deploy, and assess text message-based micro-courses that dramatically improve learning and training. 
 
 • Our learning platform helps such organizations focused on career readiness for underserved high schoolers to teach them important job and life skills
 
-• Learn more about Ekatra here: https://www.ekatra.one/  
+• Learn more about VidyaAI here: https://www.VidyaAI.one/  
 
 ---
-<h1 align="center">Welcome to Ekatra WhatsApp Bot 👋</h1>
+<h1 align="center">Welcome to VidyaAI WhatsApp Bot 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/ekatraone/Ekatra-WhatsApp-Bot/blob/main/README.md" target="_blank">
+  <a href="https://github.com/VidyaAIone/VidyaAI-WhatsApp-Bot/blob/main/README.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/ekatraone/Ekatra-WhatsApp-Bot/blob/main/LICENSE" target="_blank">
+  <a href="https://github.com/VidyaAIone/VidyaAI-WhatsApp-Bot/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://twitter.com/ramshaa_shaikh" target="_blank">
     <img alt="Twitter: @ramshaa_shaikh" src="https://img.shields.io/twitter/follow/ramshaa_shaikh.svg?style=social" />
   </a>
-    <a href="https://twitter.com/ekatraone" target="_blank">
-    <img alt="Twitter: @ekatraone" src="https://img.shields.io/twitter/follow/ekatraone.svg?style=social" />
+    <a href="https://twitter.com/VidyaAIone" target="_blank">
+    <img alt="Twitter: @VidyaAIone" src="https://img.shields.io/twitter/follow/VidyaAIone.svg?style=social" />
   </a>
 </p>
 
-> The Ekatra WhatsApp bot is a Node.js-powered interactive chatbot that assists you in deploying courses on WhatsApp.
+> The VidyaAI WhatsApp bot is a Node.js-powered interactive chatbot that assists you in deploying courses on WhatsApp.
 >
 > Every day, the Chatbot give access to new course modules by sending a reminder template message to students.
 >
@@ -92,7 +92,7 @@ After the 24 hours expiry, you can only send 'Template Messages'
 * So, how do we approach this challenge?🤔 
 No need to worry, We've got this covered.😊
 
-* Refer [Schedule Template Message](https://github.com/ekatraone/schedule-template-messages) repository and implement the cron job that sends schedule template message everyday at a specific time and the session is restarted as soon as the user replies to the template message 
+* Refer [Schedule Template Message](https://github.com/VidyaAIone/schedule-template-messages) repository and implement the cron job that sends schedule template message everyday at a specific time and the session is restarted as soon as the user replies to the template message 
 
 * Now, Follow [WATI Documentation](./docs/WATI.md) step-by-step to understand how to setup Webhook for our project both locally and remotely.
 ---
@@ -104,9 +104,9 @@ Before running, you need to setup the webhook described in [WATI Documentation](
 
 1. Git clone or download this repository
   ```sh
-  git clone https://github.com/ekatraone/Ekatra-WhatsApp-Bot.git
+  git clone https://github.com/VidyaAIone/VidyaAI-WhatsApp-Bot.git
 
-  cd Ekatra-WhatsApp-Bot
+  cd VidyaAI-WhatsApp-Bot
   ```
 2. Install all dependencies
 ```sh
@@ -149,16 +149,16 @@ npm start
 * Github: [@ramshashaikh](https://github.com/ramshashaikh)
 * LinkedIn: [@ramsha-shaikh](https://www.linkedin.com/in/ramsha-shaikh/)
 
-🏢 **Ekatra Learning, Inc.**
-* Website: https://www.ekatra.one/
-* Twitter: [@ekatraone](https://twitter.com/ekatraone)
-* Github: [@ekatraone](https://github.com/ekatraone)
+🏢 **VidyaAI Learning, Inc.**
+* Website: https://www.VidyaAI.one/
+* Twitter: [@VidyaAIone](https://twitter.com/VidyaAIone)
+* Github: [@VidyaAIone](https://github.com/VidyaAIone)
 
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />
-If you have any suggestion on how to improve the code create a [PR request](https://github.com/ekatraone/Ekatra-WhatsApp-Bot/pulls) or faced any issues feel free to [contact me](https://github.com/ekatraone/Ekatra-WhatsApp-Bot/issues). 
+If you have any suggestion on how to improve the code create a [PR request](https://github.com/VidyaAIone/VidyaAI-WhatsApp-Bot/pulls) or faced any issues feel free to [contact me](https://github.com/VidyaAIone/VidyaAI-WhatsApp-Bot/issues). 
 
 
 ## Show your support
@@ -167,7 +167,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/ekatraone/Ekatra-WhatsApp-Bot/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/VidyaAIone/VidyaAI-WhatsApp-Bot/blob/main/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
